@@ -10,17 +10,18 @@ A sample project that can be used with either Terraform or OpenTofu.
    ```
 
 2. **Install OpenTofu**
-  ```bash
+
+   ```bash
    brew install opentofu
    ```
   
-3. **Navigate to the Project Directory**: Move into the project directory.
+4. **Navigate to the Project Directory**: Move into the project directory.
 
    ```bash
    cd terraform
    ```
 
-4. **Review Terraform Configuration**: Examine the existing Terraform configuration files (`*.tf`) in the project directory.
+5. **Review Terraform Configuration**: Examine the existing Terraform configuration files (`*.tf`) in the project directory.
    
 
 6. **Verify Installation**: Ensure that OpenTofu has been installed by checking the version and that you can validate your project.
